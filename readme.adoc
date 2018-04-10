@@ -541,7 +541,8 @@ curl http://<public_endpoint>
 
 === Deployment Pipeline: EC2-mode with AWS CodePipeline
 
-https://github.com/aws-samples/aws-microservices-deploy-options/issues/104
+Mitch Working on this.
+
 
 === Deployment Pipeline: Fargate with AWS CodePipeline
 
